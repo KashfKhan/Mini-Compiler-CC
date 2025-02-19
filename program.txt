@@ -1,0 +1,5 @@
+// Hello
+int x = 0; // bye
+a + b = 7 /2; /*
+
+hi */
