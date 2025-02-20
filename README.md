@@ -110,6 +110,3 @@ Token 'int' is valid.
 Token 'x' is valid.
 ...
 ```
-
-## Conclusion
-This project provides a fundamental lexical analyzer with token validation and error handling for a custom language. The system ensures correctness through DFA-based validation and reports errors efficiently.
